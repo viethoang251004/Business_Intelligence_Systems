@@ -1,0 +1,16 @@
+Dưới đây là các phân tích chúng ta có thể thực hiện dựa trên dữ liệu hiện tại:
+
+Phân tích phản hồi khách hàng:
+Tổng hợp phản hồi khách hàng theo nền tảng (feedback_platform) để xác định kênh nhận được nhiều phản hồi nhất.
+Áp dụng phân tích cảm xúc (sentiment analysis) nếu phản hồi chứa nội dung văn bản.
+
+Phân khúc khách hàng (Customer Segmentation):
+Phân loại khách hàng theo độ tuổi (customer_dob), giới tính (customer_gender), và hành vi đặt hàng (pizza_preferences).
+Tìm nhóm khách hàng tiềm năng để tập trung chiến lược marketing.
+
+Dự đoán doanh số:
+Xây dựng mô hình dự báo doanh số theo ngày, giờ, hoặc loại pizza để tối ưu nguồn lực.
+
+Phân tích hiệu suất nhân viên:
+Đánh giá các hoạt động của nhân viên (employee_activity) để cải thiện thời gian phục vụ.
+Bạn muốn tôi bắt đầu với phân tích nào?
