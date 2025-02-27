@@ -1,0 +1,1 @@
+The midterm version 2 (link for downloading): https://drive.google.com/file/d/1dTNmXtZuQq3Gw5KhKEbd3RjvvVBgLkfX/view?usp=sharing
